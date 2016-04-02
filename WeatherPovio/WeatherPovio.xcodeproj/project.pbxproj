@@ -15,6 +15,7 @@
 		81EA2C7D1CB04AE50080513E /* DataWeatherSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */; };
 		81EA2C7F1CB04B600080513E /* DataWeatherPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */; };
 		81EA2C811CB04BDF0080513E /* CityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EA2C801CB04BDF0080513E /* CityModel.swift */; };
+		81EA2C831CB04C9A0080513E /* GlobalConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EA2C821CB04C9A0080513E /* GlobalConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataWeatherSwift.swift; sourceTree = "<group>"; };
 		81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataWeatherPlist.plist; sourceTree = "<group>"; };
 		81EA2C801CB04BDF0080513E /* CityModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CityModel.swift; sourceTree = "<group>"; };
+		81EA2C821CB04C9A0080513E /* GlobalConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				81AE95171CADEF79003738AA /* ViewController.swift */,
 				81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */,
 				81EA2C801CB04BDF0080513E /* CityModel.swift */,
+				81EA2C821CB04C9A0080513E /* GlobalConstants.swift */,
 				81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */,
 				81AE95191CADEF79003738AA /* Main.storyboard */,
 				81AE951C1CADEF79003738AA /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			files = (
 				81EA2C811CB04BDF0080513E /* CityModel.swift in Sources */,
 				81EA2C7D1CB04AE50080513E /* DataWeatherSwift.swift in Sources */,
+				81EA2C831CB04C9A0080513E /* GlobalConstants.swift in Sources */,
 				81AE95181CADEF79003738AA /* ViewController.swift in Sources */,
 				81AE95161CADEF78003738AA /* AppDelegate.swift in Sources */,
 			);
