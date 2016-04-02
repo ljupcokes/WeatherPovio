@@ -12,6 +12,8 @@
 		81AE951B1CADEF79003738AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AE95191CADEF79003738AA /* Main.storyboard */; };
 		81AE951D1CADEF79003738AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81AE951C1CADEF79003738AA /* Assets.xcassets */; };
 		81AE95201CADEF79003738AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AE951E1CADEF79003738AA /* LaunchScreen.storyboard */; };
+		81EA2C7D1CB04AE50080513E /* DataWeatherSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */; };
+		81EA2C7F1CB04B600080513E /* DataWeatherPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		81AE951C1CADEF79003738AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81AE951F1CADEF79003738AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81AE95211CADEF79003738AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataWeatherSwift.swift; sourceTree = "<group>"; };
+		81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataWeatherPlist.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				81AE95151CADEF78003738AA /* AppDelegate.swift */,
 				81AE95171CADEF79003738AA /* ViewController.swift */,
+				81EA2C7E1CB04B600080513E /* DataWeatherPlist.plist */,
+				81EA2C7C1CB04AE50080513E /* DataWeatherSwift.swift */,
 				81AE95191CADEF79003738AA /* Main.storyboard */,
 				81AE951C1CADEF79003738AA /* Assets.xcassets */,
 				81AE951E1CADEF79003738AA /* LaunchScreen.storyboard */,
@@ -124,6 +130,7 @@
 			files = (
 				81AE95201CADEF79003738AA /* LaunchScreen.storyboard in Resources */,
 				81AE951D1CADEF79003738AA /* Assets.xcassets in Resources */,
+				81EA2C7F1CB04B600080513E /* DataWeatherPlist.plist in Resources */,
 				81AE951B1CADEF79003738AA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81EA2C7D1CB04AE50080513E /* DataWeatherSwift.swift in Sources */,
 				81AE95181CADEF79003738AA /* ViewController.swift in Sources */,
 				81AE95161CADEF78003738AA /* AppDelegate.swift in Sources */,
 			);
@@ -284,6 +292,7 @@
 				81AE95261CADEF79003738AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
