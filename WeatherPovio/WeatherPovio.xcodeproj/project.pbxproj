@@ -70,13 +70,13 @@
 				81AE95171CADEF79003738AA /* ViewController.swift */,
 				81EA2C861CB052680080513E /* WeatherInfoController.swift */,
 				81EA2C881CB052A00080513E /* AddCityTableController.swift */,
-				81EA2C7E1CB04B600080513E /* DataWeather.plist */,
 				81EA2C801CB04BDF0080513E /* CityModel.swift */,
 				81EA2C821CB04C9A0080513E /* GlobalConstants.swift */,
 				81EA2C7C1CB04AE50080513E /* PlistDataSwift.swift */,
 				81AE95191CADEF79003738AA /* Main.storyboard */,
 				81AE951C1CADEF79003738AA /* Assets.xcassets */,
 				81AE951E1CADEF79003738AA /* LaunchScreen.storyboard */,
+				81EA2C7E1CB04B600080513E /* DataWeather.plist */,
 				81AE95211CADEF79003738AA /* Info.plist */,
 			);
 			path = WeatherPovio;
