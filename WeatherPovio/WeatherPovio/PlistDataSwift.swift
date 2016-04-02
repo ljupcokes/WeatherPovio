@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct DataWeatherSwift {
+struct PlistDataSwift {
     
     enum PlistError: ErrorType {
         case FileNotWritten

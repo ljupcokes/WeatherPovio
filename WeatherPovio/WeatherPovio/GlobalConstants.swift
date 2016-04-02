@@ -8,7 +8,7 @@
 
 import Foundation
 
-let kPlistKey = "DataWeatherPlist"
+let kPlistKey = "DataWeather"
 
 let kAppID = "2d900e7d3f723d5232a7fd4fbb40abdc"
 let kAddCity = "http://api.openweathermap.org/data/2.5/weather?q="
