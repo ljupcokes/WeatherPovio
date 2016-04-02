@@ -26,3 +26,5 @@ let kCityHumidity = "humidity"
 let kCityTemperature = "temp"
 let kCityDescription = "description"
 
+let kPullToRefreshMessage = "Pull to refresh"
+
